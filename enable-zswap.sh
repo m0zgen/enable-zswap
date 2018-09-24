@@ -2,6 +2,7 @@
 # Enable zswap on the Fedora
 # Created by Yevgeniy Goncharov, https://sys-adm.in
 # Official Fedora doc - https://fedoraproject.org/wiki/Zswap
+# How to check working zswap - https://unix.stackexchange.com/questions/406936/get-current-zswap-memory-usage-and-statistics
 
 # Enable lz4 kernel support
 modprobe lz4 lz4_compress
